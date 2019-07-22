@@ -1,0 +1,470 @@
+{"stationTimetables":
+[
+ {
+   "departureTime": "6:55 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "7:00 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "10:00 PM",
+   "Station": "Tiger"
+ },
+ {
+   "departureTime": "7:05 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "7:08 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "7:17 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "7:22 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "7:27 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "7:30 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "7:39 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "7:44 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "7:49 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "7:52 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "8:01 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "8:06 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "8:11 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "8:14 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "8:23 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "8:28 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "8:33 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "8:36 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "8:45 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "8:50 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "8:55 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "8:58 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "9:07 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "9:12 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "9:17 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "9:20 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "9:29 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "9:34 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "9:39 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "9:42 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "9:51 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "9:56 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "10:01 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "10:04 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "10:13 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "10:18 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "10:23 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "10:26 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "10:35 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "10:40 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "10:45 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "10:48 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "10:57 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "11:02 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "11:07 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "11:10 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "11:19 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "11:24 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "11:29 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "11:32 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "11:41 AM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "11:46 AM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "11:51 AM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "11:54 AM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "12:03 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "12:08 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "12:13 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "12:16 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "12:25 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "12:30 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "12:35 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "12:38 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "12:47 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "12:52 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "12:57 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "1:00 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "1:09 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "1:14 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "1:19 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "1:22 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "1:31 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "1:36 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "1:41 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "1:44 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "1:53 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "1:58 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "2:03 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "2:06 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "2:15 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "2:20 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "2:25 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "2:28 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "2:37 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "2:42 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "2:47 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "2:50 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "2:59 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "3:04 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "3:09 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "3:12 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "3:21 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "3:26 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "3:31 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "3:34 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "3:43 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "3:48 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "3:53 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "3:56 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "4:05 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "4:10 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "4:15 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "4:18 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "4:27 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "4:32 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "4:37 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "4:40 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "4:49 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "4:54 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "4:59 PM",
+   "Station": "R01"
+ },
+ {
+   "departureTime": "5:02 PM",
+   "Station": "R07/09"
+ },
+ {
+   "departureTime": "5:11 PM",
+   "Station": "E01(C&D)"
+ },
+ {
+   "departureTime": "5:16 PM",
+   "Station": "R24"
+ },
+ {
+   "departureTime": "5:21 PM",
+   "Station": "R01"
+ }
+]
+}
+
+
